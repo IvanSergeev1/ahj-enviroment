@@ -1,6 +1,6 @@
 [Ссылка на проект](https://ivansergeev1.github.io/ahj-enviroment/)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/2lcjsf071poglefy/branch/master?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-enviroment/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/2lcjsf071poglefy?svg=true)](https://ci.appveyor.com/project/IvanSergeev1/ahj-enviroment)
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
